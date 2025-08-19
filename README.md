@@ -48,8 +48,8 @@ dsa-of-the-day/
 
 ## 🚀 Progress Tracker
 <div style="max-height: 400px; overflow-y: auto; border: 1px solid #ddd; padding: 5px;">
-### (Week 1: Scaling Cycle)
 
+### Week 1 (Scaling Cycle)
 | Day | Category   | Problem | Python | Java | C++ |
 |-----|------------|---------|--------|------|-----|
 | 1   | Arrays     | [Two Sum](https://leetcode.com/problems/two-sum/) | ✅ |  |  |
