@@ -46,7 +46,9 @@ dsa-of-the-day/
 
 ---
 
-## 🚀 Progress Tracker (Week 1: Scaling Cycle)
+## 🚀 Progress Tracker
+<div style="max-height: 400px; overflow-y: auto; border: 1px solid #ddd; padding: 5px;">
+### (Week 1: Scaling Cycle)
 
 | Day | Category   | Problem | Python | Java | C++ |
 |-----|------------|---------|--------|------|-----|
@@ -59,7 +61,7 @@ dsa-of-the-day/
 | 7   | Trees      | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |  |  |  |
 
 ✅ = solved in that language  
-
+</div>
 ---
 
 ## 📝 Example Solution Format  
