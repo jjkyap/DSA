@@ -56,7 +56,7 @@ dsa-of-the-day/
 | 4   | Strings    | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | |  |  |
 | 5   | Arrays     | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) |  |  |  |
 | 6   | Arrays     | [Binary Search](https://leetcode.com/problems/binary-search/) |  |  |  |
-| 7   | Trees      | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | ✅ |  |  |
+| 7   | Trees      | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |  |  |  |
 
 ✅ = solved in that language  
 
