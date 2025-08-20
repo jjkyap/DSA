@@ -49,18 +49,22 @@ dsa-of-the-day/
 ## 🚀 Progress Tracker
 <div style="max-height: 400px; overflow-y: auto; border: 1px solid #ddd; padding: 5px;">
 
-### Week 1 (Scaling Cycle)
-| Day | Category   | Problem | Python | Java | C++ |
-|-----|------------|---------|--------|------|-----|
-| 1   | Arrays     | [Two Sum](https://leetcode.com/problems/two-sum/) | ✅ |  |  |
-| 2   | Strings    | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) |  |  |  |
-| 3   | Strings    | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) |  |  |  |
-| 4   | Strings    | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | |  |  |
-| 5   | Arrays     | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) |  |  |  |
-| 6   | Arrays     | [Binary Search](https://leetcode.com/problems/binary-search/) |  |  |  |
-| 7   | Trees      | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |  |  |  |
+### 📚 Week 1 (Concept-Driven Scaling Cycle)
+
+| Day | Category                | Problem                                                                                                                         | Python | Java | C++ |
+| --- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ------ | ---- | --- |
+| 1   | Arrays & Hash Map       | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                               | ✅      |      |     |
+| 2   | Two Pointers (Same Dir) | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                       | 🔁     |      |     |
+| 3   | Hash Maps               | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)                         |        |      |     |
+| 4   | Stacks                  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                           |        |      |     |
+| 5   | Two Pointers (Opp Dir)  | [Two Sum II – Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)                           |        |      |     |
+| 6   | Sliding Window          | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |        |      |     |
+| 7   | Prefix Sums             | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)                                         |        |      |     |
+     |        |      |     |
 
 ✅ = solved in that language  
+🔁 = currently working on  
+
 </div>
 ---
 
