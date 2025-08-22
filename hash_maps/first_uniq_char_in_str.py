@@ -24,3 +24,17 @@
 # Hints:
 # 1. Use a hash map (dictionary in Python) to count character frequencies.
 # 2. Then scan through the string to find the first char with count = 1.
+
+def first_unique_char(givenString):
+	seen = {}
+	for letter in givenString:
+		if letter in seen:
+			seen[letter] = False
+		else:
+			seen[letter] = True
+
+	for i, letter in enumerate(givenString):
+		if seen[letter] == True:
+			return i
+	return -1
+
