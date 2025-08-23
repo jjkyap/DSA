@@ -57,7 +57,7 @@ dsa-of-the-day/
 | 2   | Two Pointers (Same Dir) | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                       | ✅     |      |     |
 | 3   | Hash Maps               | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)                         | ✅      |      |     |
 | 4   | Stacks                  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                           | ✅        |      |     |
-| 5   | Two Pointers (Opp Dir)  | [Two Sum II – Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)                           |        |      |     |
+| 5   | Two Pointers (Opp Dir)  | [Two Sum II – Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)                           | ✅       |      |     |
 | 6   | Sliding Window          | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |        |      |     |
 | 7   | Prefix Sums             | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)                                         |        |      |     |
      |        |      |     |
